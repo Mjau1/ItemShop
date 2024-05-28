@@ -1,6 +1,6 @@
 CID_683_Athena_Commando_F_TigerFashion, 1500
 CID_648_Athena_Commando_F_MsAlpine, 1500
-Pickaxe_ID_143_FlintlockWinter, 1200
+Pickaxe_ID_179_StarWand, 800
 na
 na
 na
